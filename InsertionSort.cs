@@ -1,4 +1,5 @@
-static void Main(string[] args){
+static void Main(string[] args)
+{
             Random RandNum = new Random();
             int[] A = new int[20];
             int Key, i, j, m;
@@ -31,4 +32,4 @@ static void Main(string[] args){
                 Console.Write(A[i] + "\t");
             }
             Console.ReadLine();
-            }
+}
