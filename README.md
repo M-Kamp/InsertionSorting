@@ -1,1 +1,1 @@
-# Collection if sorting algorithms
+# Collection of sorting algorithms
