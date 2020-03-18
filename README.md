@@ -1,1 +1,1 @@
-# InsertionSorting
+# Collection if sorting algorithms
